@@ -1,3 +1,5 @@
+package lab1_1;
+
 public final class Client extends AbstractPerson {
     final String service;
     final float price;

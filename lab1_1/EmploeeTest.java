@@ -1,3 +1,5 @@
+package lab1_1;
+
 public class EmploeeTest {
     private static String department = "Продаж";
     private static String position = "Продавец";

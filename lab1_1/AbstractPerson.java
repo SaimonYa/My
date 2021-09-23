@@ -1,3 +1,5 @@
+package lab1_1;
+
 public abstract class AbstractPerson implements HumanInterface {
     protected String name;
     public AbstractPerson(String name) {

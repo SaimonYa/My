@@ -1,3 +1,5 @@
+package lab1_1;
+
 public final class Emploee extends AbstractPerson {
     final String department;
     final String position;

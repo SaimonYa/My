@@ -1,3 +1,5 @@
+package lab1_1;
+
 public class ClientTest {
     private static String service = "Продажа";
     private static float price = 234;
