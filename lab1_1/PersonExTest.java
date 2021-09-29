@@ -1,3 +1,5 @@
+package lab1_1;
+
 public class PersonExTest {
     private static int age=20;
     private static float height=45;

@@ -1,3 +1,5 @@
+package lab1_1;
+
 public class Person {
     private int age;
     private float height;
